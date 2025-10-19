@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <footer className='text-sm text-center italic'>
-            <p>&copy; 2025 CuyFace. Ramalan ini berdasarkan model AI vision, bukan untuk sepenuhnya dipercaya.</p>
+            <p>&copy; 2025 AIFACE. Ramalan ini berdasarkan model AI vision, bukan untuk sepenuhnya dipercaya.</p>
         </footer>
     )
 }
